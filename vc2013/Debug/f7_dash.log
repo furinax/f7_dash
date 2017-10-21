@@ -1,0 +1,15 @@
+﻿Build started 10/20/2017 11:05:05 PM.
+     1>Project "C:\Programming\cinderworkspacegit\f7_dash\vc2013\f7_dash.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I..\include /I..\..\..\Cinder\include /I..\..\..\Cinder\boost /ZI /nologo /W3 /WX- /MP /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D NOMINMAX /D _WIN32_WINNT=0x0502 /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt ..\src\f7_dashApp.cpp
+         f7_dashApp.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Programming\cinderworkspacegit\f7_dash\vc2013\Debug\f7_dash.exe" /INCREMENTAL /NOLOGO /LIBPATH:..\..\..\Cinder\lib\msw\x86 "cinder-v120_d.lib" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /NODEFAULTLIB:LIBCMT /NODEFAULTLIB:LIBCPMT /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Programming\cinderworkspacegit\f7_dash\vc2013\Debug\f7_dash.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE:NO /IMPLIB:"C:\Programming\cinderworkspacegit\f7_dash\vc2013\Debug\f7_dash.lib" /MACHINE:X86 Debug\Resources.res
+         Debug\DashObj.obj
+         Debug\f7_dashApp.obj
+         f7_dash.vcxproj -> C:\Programming\cinderworkspacegit\f7_dash\vc2013\Debug\f7_dash.exe
+     1>Done Building Project "C:\Programming\cinderworkspacegit\f7_dash\vc2013\f7_dash.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:04.76
