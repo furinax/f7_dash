@@ -1,5 +1,6 @@
 #include "cinder/gl/Texture.h"
 #include "cinder/Font.h"
+#include "Tachometer.h"
 
 class DashObj
 {
@@ -16,7 +17,7 @@ private:
 	ci::Font mFont;
 	ci::gl::Texture mTexture;
 	float mFontSize = 50;
+	Tachometer mTach;
 
-	ci::Color mBarColor;
 	ci::Color mTextColor;
 };
